@@ -1,0 +1,34 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 Ti (ID=0x100a)
+    Vendor:   NVIDIA
+    VRAM:     3039 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.114 seconds
+Platform assembly: E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\TutorialUnity\Tutorial-chess\demo\chess_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3968x1152 at -2048,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.409990 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 39f0 -> priority: 1 
+  Thread -> id: 37e0 -> priority: 1 
+黑棋胜
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

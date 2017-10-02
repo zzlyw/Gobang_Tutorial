@@ -1,0 +1,25 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 Ti (ID=0x100a)
+    Vendor:   NVIDIA
+    VRAM:     3039 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\TutorialUnity\Tutorial-chess\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\TutorialUnity\Tutorial-chess\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\TutorialUnity\Tutorial-chess\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\TutorialUnity\Tutorial-chess\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\TutorialUnity\Tutorial-chess\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\TutorialUnity\Tutorial-chess\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.109 seconds
+Platform assembly: E:\TutorialUnity\Tutorial-chess\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\TutorialUnity\Tutorial-chess\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3968x1152 at -2048,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.286227 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 15e0 -> priority: 1 
+  Thread -> id: 5084 -> priority: 1 
