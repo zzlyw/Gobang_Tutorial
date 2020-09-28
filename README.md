@@ -1,2 +1,2 @@
-# FiveChess_Tutorial
-A simple fivechess program, no-AI included.
+# Gobang_Tutorial
+A simple Gobang program, no-AI included.
